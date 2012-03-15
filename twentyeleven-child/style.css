@@ -1,0 +1,12 @@
+/*
+Theme Name: Twenty Eleven Child Theme
+Theme URI: http://benchpress.pro/demos
+Author: Naomi C. Bush
+Author URI: http://naomicbush.com/
+Description: child theme for Twenty Eleven modifications
+Version: 1.0
+Template: twentyeleven
+
+*/
+
+@import url("../twentyeleven/style.css");
