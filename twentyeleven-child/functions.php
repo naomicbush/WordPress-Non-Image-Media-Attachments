@@ -22,7 +22,7 @@ function ncb_attachment_template( $template_path ) {
 }
 
 function ncb_audio_js() {
-	if ( ! is_admin() )
+	
 		echo '<script>audiojs.events.ready(function() {
 	    var as = audiojs.createAll();
 	  });
